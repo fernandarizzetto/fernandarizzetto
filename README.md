@@ -1,16 +1,22 @@
-## Hi there 👋
+# Fernanda Rizzetto
 
-<!--
-**fernandarizzetto/fernandarizzetto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 Ireland  
+📊 Data Analytics Student | Accounting Background  
 
-Here are some ideas to get you started:
+Professional with experience in finance, operations, and administrative processes, currently transitioning into Data Analytics through hands-on projects and continuous learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Excel
+- SQL
+- Python
+- Pandas
+- Data Cleaning
+- Reporting & Data Analysis
+
+## Currently
+- Data Analytics Bootcamp
+- Building portfolio projects
+- Improving analytical and BI skills
+
+## Connect
+- LinkedIn: www.linkedin.com/in/fernanda-rizzetto
